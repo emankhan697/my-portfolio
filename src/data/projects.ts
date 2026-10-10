@@ -21,16 +21,6 @@ export const projects: Project[] = [
     featured: true,
   },
   {
-    slug: "vision-hunt",
-    title: "Vision Hunt",
-    description: "An interactive game focused on object detection, utilizing computer vision concepts.",
-    thumbnail: "/projects/vision-hunt.png", // You can add a screenshot here later
-    tech: ["Python", "Computer Vision"],
-    liveUrl: "#", 
-    repoUrl: "#", 
-    featured: true,
-  },
-  {
     slug: "shafiq-dental-website",
     title: "Shafiq Dental Website",
     description: "A professional, responsive website for a dental clinic featuring service listings and a modern UI.",
