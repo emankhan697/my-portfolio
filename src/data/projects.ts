@@ -30,14 +30,4 @@ export const projects: Project[] = [
     repoUrl: "https://github.com/emankhan697/my-personal-portfolio", 
     featured: true,
   },
-  {
-    slug: "vision-hunt",
-    title: "Vision Hunt",
-    description: "An interactive game focused on object detection, utilizing computer vision concepts.",
-    thumbnail: "/projects/vision-hunt.png", 
-    tech: ["Python", "Computer Vision"],
-    liveUrl: "#", 
-    repoUrl: "#", 
-    featured: true,
-  },
 ];
