@@ -1,5 +1,8 @@
 @import "tailwindcss";
 
+/* ⚠️ Yeh line Zaroori hai Tailwind v4 mein dark mode ke liye */
+@custom-variant dark (&:where(.dark, .dark *));
+
 @layer base {
   html {
     scroll-behavior: smooth;
